@@ -1,0 +1,66 @@
+.box{
+  /* display: flex; */
+  width: 12000px;
+  height: 12000px;
+  background-color: aqua;
+}
+
+.box10{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right , green 0 30% ,white 30% 60% , orange 60% 90% );
+}
+
+.box1{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right ,red 0 50%, white 50% 100%);
+}
+
+.box2{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right,blue 0 50%, yellow 50% 100%);
+}
+
+.box3{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right,red 0 30%, white 30% 60%,blue 60% 90%);
+}
+
+.box4{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right ,red 0 30%, white 30% 60%,red 60% 90%);
+}
+
+.box5{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right ,black 0 30%, red 30% 60%,yellow 60% 90%);
+}
+
+.box6{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right ,green 0 30%,yellow 30% 60%,blue 60% 90%);
+}
+
+.box7{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right ,yellow 0 30%,blue 30% 60%,red 60% 90%);
+}
+
+.box8{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right , green 0 30%,white 30% 60%, blue 60% 90%);
+}
+
+.box9{
+  height: 150px;
+  width: 100px;
+  background-image: linear-gradient(to right , white 0 50% , red 50% 100%);
+}
